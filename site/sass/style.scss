@@ -16,7 +16,7 @@ html {
 
 body {
   /* background: url(fondo2.png); */
-  background: url(/img/ocean.jpg);
+  background: url(/site/img/ocean.jpg);
   margin: 1.2vh 2.5vw 3vh 2.5vw;
   line-height: 1.4;
 }
@@ -100,7 +100,7 @@ img {
 .showcase {
   grid-area: showcase;
   min-height: 60vh;
-  background: url(/img/lentes4.jpg);
+  background: url(/site/img/lentes4.jpg);
   background-size: cover;
   background-position: center;
   padding: 3rem;
